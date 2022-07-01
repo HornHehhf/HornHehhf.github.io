@@ -8,8 +8,8 @@ I am an Assistant Professor in the [Department of Computer Science](https://www
 
 My research interests include machine learning and natural language processing, with a focus on moving beyond scale-driven learning. Specifically, I work on incidental supervision for natural language understanding, interpretability of deep neural networks, and reasoning in natural language.
 
-\[[Google Scholar](https://scholar.google.com/citations?user=BbpI6QoAAAAJ&hl=en&oi=ao)\] \[[CV](https://hornhehhf.github.io/CV.pdf)\]
+\[[Google Scholar](https://scholar.google.com/citations?user=BbpI6QoAAAAJ&hl=en&oi=ao)\] \[[CV](/CV.pdf)\]
 
 ## Contact
-Office: 456C, 3401 Walnut St, Philadelphia, PA, 19104\
+Office: 3009 Wegmans Hall, 250 Hutchison Rd, Rochester, NY 14620\
 Email: hangfeng@seas.upenn.edu
