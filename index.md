@@ -12,4 +12,4 @@ My research interests include machine learning and natural language processing, 
 
 ## Contact
 Office: 3009 Wegmans Hall, 250 Hutchison Rd, Rochester, NY 14620\
-Email: hangfeng@seas.upenn.edu
+Email: hangfeng.he@rochester.edu
