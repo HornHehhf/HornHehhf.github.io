@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-<div> <img src="/assets/selfie.jpeg" align="right" height="210" alt="selfie"/> </div>
+<img src="/assets/selfie.jpeg" align="right" height="210" alt="selfie"/> 
 
 I am an Assistant Professor in the [Department of Computer Science](https://www.cs.rochester.edu/) and the [Goergen Institute of Data Science](https://www.sas.rochester.edu/dsc/) at the University of Rochester. Before this, I was a Ph.D. student at the University of Pennsylvania, where I worked with [Dan Roth](https://www.cis.upenn.edu/~danroth/) and [Weijie Su](http://stat.wharton.upenn.edu/~suw/index.html). Before that, I received my bachelor's degree from Peking University in 2017.
 
