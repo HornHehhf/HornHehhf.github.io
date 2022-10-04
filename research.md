@@ -6,7 +6,7 @@ permalink: /research/
 ## Publications
 ### 2023
 - **Transfer Learning via Representation Learning**\
-Mohammad Rostami, Hangfeng He, Muhao Chen, and Dan Roth
+Mohammad Rostami, Hangfeng He, Muhao Chen, and Dan Roth\
 In Federated and Transfer Learning (Book Chapter).
 \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-11748-0_10)\]
 
