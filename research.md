@@ -3,6 +3,17 @@ layout: default
 title: Research
 permalink: /research/
 ---
+## Preprints
+- **A Law of Data Separation in Deep Learning**\
+Hangfeng He and Weijie Su\
+In Arxiv 2022.
+\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\]
+
+- **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
+Matteo Sordello, Hangfeng He, and Weijie Su\
+In Arxiv 2019. 
+\[[pdf](https://arxiv.org/pdf/1910.08597.pdf)\]
+
 ## Publications
 ### 2023
 - **Transfer Learning via Representation Learning**\
@@ -91,9 +102,4 @@ Hangfeng He and Xu Sun\
 In AAAI 2017. 
 \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/10977)\]
 
-## Preprints
-- **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
-Matteo Sordello, Hangfeng He, and Weijie Su\
-In Arxiv 2019. 
-\[[pdf](https://arxiv.org/pdf/1910.08597.pdf)\]
 
