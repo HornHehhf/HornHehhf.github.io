@@ -7,7 +7,7 @@ permalink: /research/
 - **A Law of Data Separation in Deep Learning**\
 Hangfeng He and Weijie Su\
 In Arxiv 2022.
-\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\]
+\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
 
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Hangfeng He, and Weijie Su\
