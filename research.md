@@ -4,6 +4,11 @@ title: Research
 permalink: /research/
 ---
 ## Preprints
+- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In Arxiv 2023.
+\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
+
 - **A Law of Data Separation in Deep Learning**\
 Hangfeng He and Weijie Su\
 In Arxiv 2022.
