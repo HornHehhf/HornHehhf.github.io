@@ -6,17 +6,17 @@ permalink: /research/
 ## Preprints
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
-In Arxiv 2023.
+In arXiv 2023.
 \[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
 
 - **A Law of Data Separation in Deep Learning**\
 Hangfeng He and Weijie Su\
-In Arxiv 2022.
+In arXiv 2022.
 \[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
 
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Hangfeng He, and Weijie Su\
-In Arxiv 2019. 
+In arXiv 2019. 
 \[[pdf](https://arxiv.org/pdf/1910.08597.pdf)\]
 
 ## Publications
