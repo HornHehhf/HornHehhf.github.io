@@ -111,4 +111,7 @@ Hangfeng He and Xu Sun\
 In AAAI 2017. 
 \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/10977)\]
 
-
+- **Neural Networks for Negation Cue Detection in Chinese**\
+Hangfeng He, Federico Fancellu, and Bonnie Webber\
+In SemBEaR workshop 2017.
+\[[pdf](https://aclanthology.org/W17-1809.pdf)\]
