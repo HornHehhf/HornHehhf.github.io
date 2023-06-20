@@ -24,6 +24,7 @@ In arXiv 2019.
 - **On Regularization and Inference with Label Constraints**\
 Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
 In ICML 2023.
+\[[pdf](https://openreview.net/pdf?id=PsQJm6lG3s)\]
 
 - **Transfer Learning via Representation Learning**\
 Mohammad Rostami, Hangfeng He, Muhao Chen, and Dan Roth\
