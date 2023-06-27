@@ -80,7 +80,7 @@ In LREC 2020 (short papers).
 \[[pdf](https://aclanthology.org/2020.lrec-1.288.pdf)\]
 
 - **The Local Elasticity of Neural Networks**\
-Hangfeng He and Weijie Su
+Hangfeng He and Weijie Su\
 In ICLR 2020. 
 \[[pdf](https://openreview.net/pdf?id=HJxMYANtPH)\] \[[code](https://github.com/HornHehhf/LocalElasticity)\]
 
