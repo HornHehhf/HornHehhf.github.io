@@ -9,11 +9,6 @@ Hangfeng He, Hongming Zhang, and Dan Roth\
 In arXiv 2023.
 \[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
 
-- **A Law of Data Separation in Deep Learning**\
-Hangfeng He and Weijie Su\
-In arXiv 2022.
-\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
-
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Hangfeng He, and Weijie Su\
 In arXiv 2019. 
@@ -21,6 +16,11 @@ In arXiv 2019.
 
 ## Publications
 ### 2023
+- **A Law of Data Separation in Deep Learning**\
+Hangfeng He and Weijie Su\
+In PNAS 2023 (direct submission, to appear).
+\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
+
 - **On Regularization and Inference with Label Constraints**\
 Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
 In ICML 2023.
