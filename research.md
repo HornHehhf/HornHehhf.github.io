@@ -23,7 +23,8 @@ In PNAS 2023 (direct submission, to appear).
 
 - **Incidental Supervision for Natural Language Understanding**\
 Hangfeng He\
-PhD thesis, University of Pennsylvania, 2023.\[[pdf](https://www.proquest.com/docview/2829613217?pq-origsite=gscholar&fromopenview=true)\]
+PhD thesis, University of Pennsylvania, 2023.
+\[[pdf](https://www.proquest.com/docview/2829613217?pq-origsite=gscholar&fromopenview=true)\]
 
 - **On Regularization and Inference with Label Constraints**\
 Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
