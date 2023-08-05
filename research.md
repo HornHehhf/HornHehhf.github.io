@@ -31,12 +31,13 @@ Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
 In ICML 2023.
 \[[pdf](https://openreview.net/pdf?id=PsQJm6lG3s)\]
 
-- **Transfer Learning via Representation Learning**\
-Mohammad Rostami, Hangfeng He, Muhao Chen, and Dan Roth\
-In Federated and Transfer Learning (Book Chapter) 2023.
-\[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-11748-0_10)\]
 
 ### 2022
+- **Transfer Learning via Representation Learning**\
+Mohammad Rostami, Hangfeng He, Muhao Chen, and Dan Roth\
+In Federated and Transfer Learning (Book Chapter) 2022.
+\[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-11748-0_10)\]
+
 - **Weighted Training for Cross-Task Learning**\
 Shuxiao Chen, Koby Crammer, Hangfeng He, Dan Roth, and Weijie Su (alphabetical order)\
 In ICLR 2022 (oral presentation).
