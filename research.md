@@ -18,8 +18,8 @@ In arXiv 2019.
 ### 2023
 - **A Law of Data Separation in Deep Learning**\
 Hangfeng He and Weijie Su\
-In PNAS 2023 (direct submission, to appear).
-\[[pdf](https://arxiv.org/pdf/2210.17020.pdf)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
+In PNAS 2023 (direct submission).
+\[[pdf](https://www.pnas.org/doi/epdf/10.1073/pnas.2221704120)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
 
 - **Incidental Supervision for Natural Language Understanding**\
 Hangfeng He\
