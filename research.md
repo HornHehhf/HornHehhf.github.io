@@ -21,16 +21,15 @@ Hangfeng He and Weijie Su\
 In PNAS 2023 (direct submission).
 \[[pdf](https://www.pnas.org/doi/epdf/10.1073/pnas.2221704120)\] \[[code](https://github.com/HornHehhf/Equi-Separation)\]
 
-- **Incidental Supervision for Natural Language Understanding**\
-Hangfeng He\
-PhD dissertation, University of Pennsylvania, 2023.
-\[[pdf](https://www.proquest.com/docview/2829613217?pq-origsite=gscholar&fromopenview=true)\]
-
 - **On Regularization and Inference with Label Constraints**\
 Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
 In ICML 2023.
 \[[pdf](https://openreview.net/pdf?id=PsQJm6lG3s)\]
 
+- **Incidental Supervision for Natural Language Understanding**\
+Hangfeng He\
+PhD dissertation, University of Pennsylvania, 2023.
+\[[pdf](https://www.proquest.com/docview/2829613217?pq-origsite=gscholar&fromopenview=true)\]
 
 ### 2022
 - **Transfer Learning via Representation Learning**\
