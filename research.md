@@ -30,7 +30,7 @@ In PNAS 2023 (direct submission).
 - **On Regularization and Inference with Label Constraints**\
 Kaifu Wang, Hangfeng He, Tin Nguyen, Piyush Kumar, and Dan Roth\
 In ICML 2023.
-\[[pdf](https://openreview.net/pdf?id=PsQJm6lG3s)\]
+\[[pdf](https://proceedings.mlr.press/v202/wang23h/wang23h.pdf)\]
 
 - **Incidental Supervision for Natural Language Understanding**\
 Hangfeng He\
