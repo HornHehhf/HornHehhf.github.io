@@ -50,7 +50,6 @@ header_pages:
 - index.md
 - research.md
 - teaching.md
-- group.md
 
 # Build settings
 theme: minima
