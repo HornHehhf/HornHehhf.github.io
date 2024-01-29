@@ -1,4 +1,8 @@
-
+---
+layout: default
+title: group
+permalink: /group/
+---
 ## Students
 - Zhuo Liu (CS Ph.D. Student)
 - Ding Yu (CS Ph.D. Student)
