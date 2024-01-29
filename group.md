@@ -1,6 +1,6 @@
 ---
 layout: default
-title: group
+title: Group
 permalink: /group/
 ---
 ## Students
