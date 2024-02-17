@@ -9,18 +9,19 @@ Hangfeng He, Hongming Zhang, and Dan Roth\
 In arXiv 2023.
 \[[pdf](https://arxiv.org/pdf/2310.00074.pdf)\] \[[code](https://github.com/HornHehhf/SocREval)\]
 
-
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
 In arXiv 2023.
 \[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
 
-- **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
-Matteo Sordello, Hangfeng He, and Weijie Su\
-In arXiv 2019. 
-\[[pdf](https://arxiv.org/pdf/1910.08597.pdf)\]
-
 ## Publications
+
+### 2024
+- **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
+Matteo Sordello, Niccolo Dalmasso, Hangfeng He, and Weijie Su\
+In TMLR 2024. 
+\[[pdf](https://openreview.net/pdf?id=3PbxuMNQkp)\]
+
 ### 2023
 - **A Law of Data Separation in Deep Learning**\
 Hangfeng He and Weijie Su\
