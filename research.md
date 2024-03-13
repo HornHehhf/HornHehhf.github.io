@@ -4,10 +4,6 @@ title: Research
 permalink: /research/
 ---
 ## Preprints
-- **SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation**\
-Hangfeng He, Hongming Zhang, and Dan Roth\
-In arXiv 2023.
-\[[pdf](https://arxiv.org/pdf/2310.00074.pdf)\] \[[code](https://github.com/HornHehhf/SocREval)\]
 
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
@@ -17,6 +13,15 @@ In arXiv 2023.
 ## Publications
 
 ### 2024
+- **SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In NAACL 2024 (findings).
+\[[pdf](https://arxiv.org/pdf/2310.00074.pdf)\] \[[code](https://github.com/HornHehhf/SocREval)\]
+
+- **Unveiling Divergent Inductive Biases of LLMs on Temporal Data**\
+Sindhu Kishore and Hangfeng He\
+In NAACL 2024 (short papers, to appear).
+
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Niccolo Dalmasso, Hangfeng He, and Weijie Su\
 In TMLR 2024. 
