@@ -3,12 +3,6 @@ layout: default
 title: Research
 permalink: /research/
 ---
-## Preprints
-
-- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
-Hangfeng He, Hongming Zhang, and Dan Roth\
-In arXiv 2023.
-\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
 
 ## Publications
 
@@ -133,3 +127,10 @@ In AAAI 2017.
 Hangfeng He, Federico Fancellu, and Bonnie Webber\
 In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
+
+## Preprints
+
+- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In arXiv 2023.
+\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
