@@ -14,7 +14,9 @@ In NAACL 2024 (findings).
 
 - **Unveiling Divergent Inductive Biases of LLMs on Temporal Data**\
 Sindhu Kishore and Hangfeng He\
-In NAACL 2024 (short papers, to appear).
+In NAACL 2024 (short papers).
+\[[pdf](https://arxiv.org/pdf/2404.01453.pdf)\] \[[code](https://github.com/SindhuKRao/LLM_temporal_Bias)\]
+
 
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Niccolo Dalmasso, Hangfeng He, and Weijie Su\
