@@ -7,6 +7,10 @@ permalink: /research/
 ## Publications
 
 ### 2024
+- **An Empirical Analysis on Large Language Models in Debate Evaluation**\
+Xinyi Liu, Pinxin Liu, and Hangfeng He\
+In ACL 2024 (short papers, to appear).
+
 - **SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
 In NAACL 2024 (findings).
