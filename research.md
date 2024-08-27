@@ -4,6 +4,18 @@ title: Research
 permalink: /research/
 ---
 
+## Preprints
+
+- **A Law of Next-Token Prediction in Large Language Models**\
+Hangfeng He and Weijie Su\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
+
+- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In arXiv 2023.
+\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
+
 ## Publications
 
 ### 2024
@@ -134,9 +146,3 @@ Hangfeng He, Federico Fancellu, and Bonnie Webber\
 In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
-## Preprints
-
-- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
-Hangfeng He, Hongming Zhang, and Dan Roth\
-In arXiv 2023.
-\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
