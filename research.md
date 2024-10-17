@@ -11,6 +11,12 @@ Hangfeng He and Weijie Su\
 In arXiv 2024.
 \[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
+- **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
+Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2410.09733)\] 
+
+
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
 In arXiv 2023.
