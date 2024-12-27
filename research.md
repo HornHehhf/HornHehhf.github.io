@@ -11,6 +11,16 @@ Hangfeng He and Weijie Su\
 In arXiv 2024.
 \[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
+- **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
+Ding Yu, Zhuo Liu, and Hangfeng He\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2412.18029)\]
+
+- **On the Role of Model Prior in Real-World Inductive Reasoning**\
+Zhuo Liu, Ding Yu, and Hangfeng He\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2412.13645)\]
+
 - **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
 Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
 In arXiv 2024.
