@@ -38,7 +38,7 @@ In arXiv 2023.
 - **An Empirical Analysis on Large Language Models in Debate Evaluation**\
 Xinyi Liu, Pinxin Liu, and Hangfeng He\
 In ACL 2024 (short papers).
-\[[pdf](https://arxiv.org/pdf/2406.00050)\] 
+\[[pdf](https://aclanthology.org/2024.acl-short.44.pdf)\] 
 
 - **SocREval: Large Language Models with the Socratic Method for Reference-Free Reasoning Evaluation**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
@@ -48,7 +48,7 @@ In NAACL 2024 (findings).
 - **Unveiling Divergent Inductive Biases of LLMs on Temporal Data**\
 Sindhu Kishore and Hangfeng He\
 In NAACL 2024 (short papers).
-\[[pdf](https://arxiv.org/pdf/2404.01453.pdf)\] 
+\[[pdf](https://aclanthology.org/2024.naacl-short.20.pdf)\] 
 
 - **Robust Learning Rate Selection for Stochastic Optimization via Splitting Diagnostic**\
 Matteo Sordello, Niccolo Dalmasso, Hangfeng He, and Weijie Su\
