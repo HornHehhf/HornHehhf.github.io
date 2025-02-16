@@ -33,6 +33,11 @@ In arXiv 2023.
 \[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
 
 ## Publications
+### 2025
+- **Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**\
+Jiarui Wu, Zhuo Liu, and Hangfeng He\
+In NAACL 2025 (short papers).
+\[[pdf](https://arxiv.org/pdf/2502.08317)\] 
 
 ### 2024
 - **An Empirical Analysis on Large Language Models in Debate Evaluation**\
