@@ -36,7 +36,7 @@ In arXiv 2023.
 ### 2025
 - **Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**\
 Jiarui Wu, Zhuo Liu, and Hangfeng He\
-In NAACL 2025 (short papers).
+In NAACL 2025 (short papers, findings).
 \[[pdf](https://arxiv.org/pdf/2502.08317)\] 
 
 ### 2024
