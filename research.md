@@ -7,7 +7,7 @@ permalink: /research/
 ## Preprints
 
 - **An Empirical Analysis of LLMs for Countering Misinformation**\
-Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, Ehsan Hoque\
+Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
 In arXiv 2025.
 \[[pdf](https://arxiv.org/pdf/2503.01902)\]
 
