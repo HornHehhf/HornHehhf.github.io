@@ -6,10 +6,10 @@ permalink: /research/
 
 ## Preprints
 
-- **A Law of Next-Token Prediction in Large Language Models**\
-Hangfeng He and Weijie Su\
-In arXiv 2024.
-\[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
+- **An Empirical Analysis of LLMs for Countering Misinformation**\
+Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, Ehsan Hoque\
+In arXiv 2025.
+\[[pdf](https://arxiv.org/pdf/2503.01902)\]
 
 - **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
 Ding Yu, Zhuo Liu, and Hangfeng He\
@@ -26,6 +26,10 @@ Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He,
 In arXiv 2024.
 \[[pdf](https://arxiv.org/pdf/2410.09733)\] 
 
+- **A Law of Next-Token Prediction in Large Language Models**\
+Hangfeng He and Weijie Su\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
