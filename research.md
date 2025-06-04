@@ -5,16 +5,15 @@ permalink: /research/
 ---
 
 ## Preprints
+- **TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering**\
+Boyi Zhang, Zhuo Liu, and Hangfeng He\
+In arXiv 2025.
+\[[pdf](https://arxiv.org/pdf/2506.00331)\]
 
 - **An Empirical Analysis of LLMs for Countering Misinformation**\
 Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
 In arXiv 2025.
 \[[pdf](https://arxiv.org/pdf/2503.01902)\]
-
-- **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
-Ding Yu, Zhuo Liu, and Hangfeng He\
-In arXiv 2024.
-\[[pdf](https://arxiv.org/pdf/2412.18029)\]
 
 - **On the Role of Model Prior in Real-World Inductive Reasoning**\
 Zhuo Liu, Ding Yu, and Hangfeng He\
@@ -38,6 +37,11 @@ In arXiv 2023.
 
 ## Publications
 ### 2025
+- **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
+Ding Yu, Zhuo Liu, and Hangfeng He\
+In ACL 2025 (findings).
+\[[pdf](https://arxiv.org/pdf/2412.18029)\]
+
 - **Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**\
 Jiarui Wu, Zhuo Liu, and Hangfeng He\
 In NAACL 2025 (short papers, findings).
