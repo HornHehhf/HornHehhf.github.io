@@ -5,6 +5,11 @@ permalink: /research/
 ---
 
 ## Preprints
+- **The Role of Model Confidence on Bias Effects in Measured Uncertainties**\
+Xinyi Liu, Weiguang Wang, and Hangfeng He\
+In arXiv 2025.
+\[[pdf](https://arxiv.org/pdf/2506.16724)\]
+
 - **TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering**\
 Boyi Zhang, Zhuo Liu, and Hangfeng He\
 In arXiv 2025.
