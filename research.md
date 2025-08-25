@@ -4,44 +4,32 @@ title: Research
 permalink: /research/
 ---
 
-## Preprints
+## Publications
+### 2025
+- **Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction**\
+Huanxin Sheng, Xinyi Liu, Hangfeng He, Jieyu Zhao, and Jian Kang\
+In EMNLP 2025 (to appear).
+
 - **The Role of Model Confidence on Bias Effects in Measured Uncertainties**\
 Xinyi Liu, Weiguang Wang, and Hangfeng He\
-In arXiv 2025.
+In EMNLP 2025.
 \[[pdf](https://arxiv.org/pdf/2506.16724)\]
 
 - **TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering**\
 Boyi Zhang, Zhuo Liu, and Hangfeng He\
-In arXiv 2025.
+In EMNLP 2025.
 \[[pdf](https://arxiv.org/pdf/2506.00331)\]
-
-- **An Empirical Analysis of LLMs for Countering Misinformation**\
-Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
-In arXiv 2025.
-\[[pdf](https://arxiv.org/pdf/2503.01902)\]
 
 - **On the Role of Model Prior in Real-World Inductive Reasoning**\
 Zhuo Liu, Ding Yu, and Hangfeng He\
-In arXiv 2024.
+In EMNLP 2024.
 \[[pdf](https://arxiv.org/pdf/2412.13645)\]
-
-- **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
-Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
-In arXiv 2024.
-\[[pdf](https://arxiv.org/pdf/2410.09733)\] 
 
 - **A Law of Next-Token Prediction in Large Language Models**\
 Hangfeng He and Weijie Su\
-In arXiv 2024.
+In PRR 2024.
 \[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
-- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
-Hangfeng He, Hongming Zhang, and Dan Roth\
-In arXiv 2023.
-\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
-
-## Publications
-### 2025
 - **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
 Ding Yu, Zhuo Liu, and Hangfeng He\
 In ACL 2025 (findings).
@@ -180,3 +168,18 @@ Hangfeng He, Federico Fancellu, and Bonnie Webber\
 In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
+## Preprints
+- **An Empirical Analysis of LLMs for Countering Misinformation**\
+Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
+In arXiv 2025.
+\[[pdf](https://arxiv.org/pdf/2503.01902)\]
+
+- **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
+Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
+In arXiv 2024.
+\[[pdf](https://arxiv.org/pdf/2410.09733)\] 
+
+- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In arXiv 2023.
+\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
