@@ -22,7 +22,7 @@ In EMNLP 2025.
 
 - **On the Role of Model Prior in Real-World Inductive Reasoning**\
 Zhuo Liu, Ding Yu, and Hangfeng He\
-In EMNLP 2024.
+In EMNLP 2025.
 \[[pdf](https://arxiv.org/pdf/2412.13645)\]
 
 - **A Law of Next-Token Prediction in Large Language Models**\
