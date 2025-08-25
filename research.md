@@ -12,7 +12,7 @@ In EMNLP 2025 (to appear).
 
 - **The Role of Model Confidence on Bias Effects in Measured Uncertainties**\
 Xinyi Liu, Weiguang Wang, and Hangfeng He\
-In EMNLP 2025.
+In EMNLP 2025 (findings).
 \[[pdf](https://arxiv.org/pdf/2506.16724)\]
 
 - **TreeRare: Syntax Tree-Guided Retrieval and Reasoning for Knowledge-Intensive Question Answering**\
