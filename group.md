@@ -6,15 +6,16 @@ permalink: /group/
 ## Students
 - Zhuo Liu (CS Ph.D. Student)
 - Ding Yu (CS Ph.D. Student)
-- Xinyi Liu (IS Ph.D. Collaborator)
-- Haozheng Du (CS MS Student; Graduated 2023)
+- Huanxin Sheng (CS Ph.D. Collaborator)
+- Haozheng Du (CS MS Graduate)
 - Boyi Zhang (CS Undergraduate)
 
 ## Alumni
-- Jiarui Wu (CS Undergraduate; Graduated 2024)
-- Andy (Pinxin) Liu (CS Undergraduate; Graduated 2024)
-- Sindhu Kishore (DS MS Student; Graduated 2023)
-- Srishti Todi (DS MS Student; Graduated 2023)
+- Xinyi Liu (IS Ph.D. Collaborator, 2024-2025)
+- Jiarui Wu (CS Undergraduate; 2024)
+- Andy (Pinxin) Liu (CS Undergraduate; 2023-2024)
+- Sindhu Kishore (DS MS Student; 2023)
+- Srishti Todi (DS MS Student; 2023)
 
 
 
