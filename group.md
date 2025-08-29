@@ -11,7 +11,7 @@ permalink: /group/
 - Boyi Zhang (CS Undergraduate)
 
 ## Alumni
-- Xinyi Liu (IS Ph.D. Collaborator, 2024-2025)
+- Xinyi Liu (Simon Ph.D. Collaborator, 2024-2025)
 - Jiarui Wu (CS Undergraduate; 2024)
 - Andy (Pinxin) Liu (CS Undergraduate; 2023-2024)
 - Sindhu Kishore (DS MS Student; 2023)
