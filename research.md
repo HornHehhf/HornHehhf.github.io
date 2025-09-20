@@ -6,6 +6,11 @@ permalink: /research/
 
 ## Publications
 ### 2025
+- **How LLMs Fail to Support Fact-Checking**\
+Adiba Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
+In IDeaS 2025.
+\[[pdf](https://arxiv.org/pdf/2503.01902)\]
+
 - **Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction**\
 Huanxin Sheng, Xinyi Liu, Hangfeng He, Jieyu Zhao, and Jian Kang\
 In EMNLP 2025 (to appear).
@@ -169,11 +174,6 @@ In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
 ## Preprints
-- **An Empirical Analysis of LLMs for Countering Misinformation**\
-Adiba Mahbub Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
-In arXiv 2025.
-\[[pdf](https://arxiv.org/pdf/2503.01902)\]
-
 - **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
 Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
 In arXiv 2024.
