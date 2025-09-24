@@ -13,7 +13,8 @@ In IDeaS 2025.
 
 - **Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction**\
 Huanxin Sheng, Xinyi Liu, Hangfeng He, Jieyu Zhao, and Jian Kang\
-In EMNLP 2025 (to appear).
+In EMNLP 2025.
+\[[pdf](https://arxiv.org/pdf/2509.18658)\]
 
 - **The Role of Model Confidence on Bias Effects in Measured Uncertainties**\
 Xinyi Liu, Weiguang Wang, and Hangfeng He\
@@ -33,7 +34,7 @@ In EMNLP 2025.
 - **A Law of Next-Token Prediction in Large Language Models**\
 Hangfeng He and Weijie Su\
 In PRE 2025.
-\[[pdf](https://arxiv.org/pdf/2408.13442)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
+\[[pdf](https://journals.aps.org/pre/pdf/10.1103/5rn3-49lc)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
 - **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
 Ding Yu, Zhuo Liu, and Hangfeng He\
