@@ -34,7 +34,7 @@ In EMNLP 2025.
 - **A Law of Next-Token Prediction in Large Language Models**\
 Hangfeng He and Weijie Su\
 In PRE 2025.
-\[[pdf](https://journals.aps.org/pre/pdf/10.1103/5rn3-49lc)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
+\[[pdf](https://journals.aps.org/pre/abstract/10.1103/5rn3-49lc)\] \[[code](https://github.com/HornHehhf/LLM-ELL)\]
 
 - **Same Company, Same Signal: The Role of Identity in Earnings Call Transcripts**\
 Ding Yu, Zhuo Liu, and Hangfeng He\
