@@ -13,7 +13,7 @@ In IDeaS 2025.
 
 - **Analyzing Uncertainty of LLM-as-a-Judge: Interval Evaluations with Conformal Prediction**\
 Huanxin Sheng, Xinyi Liu, Hangfeng He, Jieyu Zhao, and Jian Kang\
-In EMNLP 2025.
+In EMNLP 2025 (SAC Highlights).
 \[[pdf](https://arxiv.org/pdf/2509.18658)\]
 
 - **The Role of Model Confidence on Bias Effects in Measured Uncertainties**\
