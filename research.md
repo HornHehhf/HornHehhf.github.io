@@ -5,6 +5,15 @@ permalink: /research/
 ---
 
 ## Publications
+### 2026
+- **Small Arguments, Big Ideas: Fostering Children’s Collaborative Reasoning with LLM Agents**\
+Hecong Wang, Meng Wang, Erfan Farhadi, Asad Shahab, Yuanzhu Li, Haozheng Du, Carolyn Rose, Hangfeng He, and Zhen Bai\
+In ISLS 2026 (to appear).
+
+- **Ranking Human and LLM Texts Using Locality Statistics**\
+Yiyang Wang, Chen Ding, and Hangfeng He\
+In EACL 2026 (to appear).
+
 ### 2025
 - **How LLMs Fail to Support Fact-Checking**\
 Adiba Proma, Neeley Pate, James Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
@@ -175,6 +184,11 @@ In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
 ## Preprints
+- **Replicating Human Motivated Reasoning Studies with LLMs**\
+Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2601.16130)\] 
+
 - **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
 Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
 In arXiv 2024.

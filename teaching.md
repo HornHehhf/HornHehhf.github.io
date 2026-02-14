@@ -4,6 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 ## Teaching
+- CSC 247/447: Natural Language Processing, Spring 2026
 - CSC 511: Large Language Models, Fall 2025
 - CSC 247/447: Natural Language Processing, Spring 2025
 - CSC 511: Large Language Models, Fall 2024
