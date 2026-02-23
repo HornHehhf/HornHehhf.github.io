@@ -12,7 +12,7 @@ In ISLS 2026 (to appear).
 
 - **Ranking Human and LLM Texts Using Locality Statistics**\
 Yiyang Wang, Chen Ding, and Hangfeng He\
-In EACL 2026 (to appear).
+In EACL 2026 (short papers, findings, to appear).
 
 ### 2025
 - **How LLMs Fail to Support Fact-Checking**\
