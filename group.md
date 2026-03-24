@@ -7,6 +7,7 @@ permalink: /group/
 - Zhuo Liu (CS Ph.D. Student)
 - Ding Yu (CS Ph.D. Student)
 - Boyi Zhang (CS Undergraduate)
+- Jack Wang (CS Undergraduate)
 
 ## Alumni
 - Huanxin Sheng (CS Ph.D. Collaborator, 2025)
