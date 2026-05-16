@@ -193,7 +193,7 @@ In SemBEaR workshop 2017.
 - **Uncovering Symmetry Transfer in Large Language Models via Layer-Peeled Optimization**\
 Zhehang Du, Hangfeng He, and Weijie Su\
 In arXiv 2026.
-\[[pdf](https://arxiv.org/abs/2605.12756)\]
+\[[pdf](https://arxiv.org/pdf/2605.12756)\]
 
 - **Replicating Human Motivated Reasoning Studies with LLMs**\
 Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
