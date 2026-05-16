@@ -6,10 +6,10 @@ permalink: /group/
 ## Students
 - Zhuo Liu (CS Ph.D. Student)
 - Ding Yu (CS Ph.D. Student)
-- Boyi Zhang (CS Undergraduate)
 - Jack Wang (CS Undergraduate)
 
 ## Alumni
+- Boyi Zhang (CS Undergraduate, 2024-2026)
 - Huanxin Sheng (CS Ph.D. Collaborator, 2025)
 - Haozheng Du (CS MS Graduate, 2024-2025)
 - Xinyi Liu (Simon Ph.D. Collaborator, 2024-2025)

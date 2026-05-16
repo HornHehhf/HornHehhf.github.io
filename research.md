@@ -6,6 +6,11 @@ permalink: /research/
 
 ## Publications
 ### 2026
+- **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
+Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
+In TMLR 2026.
+\[[pdf](https://arxiv.org/pdf/2410.09733)\] 
+
 - **Small Arguments, Big Ideas: Fostering Children’s Collaborative Reasoning with LLM Agents**\
 Hecong Wang, Meng Wang, Erfan Farhadi, Asad Shahab, Yuanzhu Li, Haozheng Du, Carolyn Rose, Hangfeng He, and Zhen Bai\
 In ISLS 2026 (to appear).
@@ -185,15 +190,15 @@ In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
 ## Preprints
+- **Uncovering Symmetry Transfer in Large Language Models via Layer-Peeled Optimization**\
+Zhehang Du, Hangfeng He, and Weijie Su\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/abs/2605.12756)\]
+
 - **Replicating Human Motivated Reasoning Studies with LLMs**\
 Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
 In arXiv 2026.
 \[[pdf](https://arxiv.org/pdf/2601.16130)\] 
-
-- **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
-Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
-In arXiv 2024.
-\[[pdf](https://arxiv.org/pdf/2410.09733)\] 
 
 - **Rethinking with Retrieval: Faithful Large Language Model Inference**\
 Hangfeng He, Hongming Zhang, and Dan Roth\
