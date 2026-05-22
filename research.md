@@ -190,13 +190,18 @@ In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
 ## Preprints
+- **Can LLMs Emulate Human Belief Dynamics?**\
+Adiba Mahbub Proma, Neeley Pate, James N. Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2605.18781)\] 
+
 - **Uncovering Symmetry Transfer in Large Language Models via Layer-Peeled Optimization**\
 Zhehang Du, Hangfeng He, and Weijie Su\
 In arXiv 2026.
 \[[pdf](https://arxiv.org/pdf/2605.12756)\]
 
 - **Replicating Human Motivated Reasoning Studies with LLMs**\
-Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
+Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N. Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
 In arXiv 2026.
 \[[pdf](https://arxiv.org/pdf/2601.16130)\] 
 
