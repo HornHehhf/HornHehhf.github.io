@@ -8,9 +8,9 @@ permalink: /group/
 I am broadly interested in AI and its interdisciplinary applications (AI + X). If you are an undergraduate student at the University of Rochester from any academic background and share these interests, please email me your CV (or resume) and a brief statement of interest. Prior AI experience is not required; I value curiosity, motivation, and a commitment to research for **at least one year**.
 
 ## Students
-- Zhuo Liu (CS Ph.D. Student)
-- Ding Yu (CS Ph.D. Student)
-- Jack Wang (CS Undergraduate)
+- Zhuo Liu (CS Ph.D. Student, 2024-present)
+- Ding Yu (CS Ph.D. Student, 2024-present)
+- Jack Wang (CS Undergraduate, 2026-present; InnovateCS Grant, 2026)
 
 ## Alumni
 - Boyi Zhang (CS Undergraduate, 2024-2026; CRA Outstanding Undergraduate Researcher Award – Honorable Mention, 2026)
