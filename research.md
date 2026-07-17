@@ -4,6 +4,37 @@ title: Research
 permalink: /research/
 ---
 
+## Preprints
+- **Fast Numbers, Slow Language: Bridging Quantitative and Qualitative Earnings Signals**\
+Ding Yu, Zhuo Liu, Hao Zhang, and Hangfeng He\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2606.29734)\]
+
+- **Style or Content? Evaluating Style Classifiers with Controlled Content Overlap**\
+Zhuo Liu, Haozheng Du, Xiangxiang Xu, and Hangfeng He\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2606.07103)\]
+
+- **Can LLMs Emulate Human Belief Dynamics?**\
+Adiba Mahbub Proma, Neeley Pate, James N. Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2605.18781)\] 
+
+- **Uncovering Symmetry Transfer in Large Language Models via Layer-Peeled Optimization**\
+Zhehang Du, Hangfeng He, and Weijie Su\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2605.12756)\]
+
+- **Replicating Human Motivated Reasoning Studies with LLMs**\
+Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N. Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2601.16130)\] 
+
+- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
+Hangfeng He, Hongming Zhang, and Dan Roth\
+In arXiv 2023.
+\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
+
 ## Publications
 ### 2026
 - **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
@@ -189,33 +220,3 @@ Hangfeng He, Federico Fancellu, and Bonnie Webber\
 In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
-## Preprints
-- **Fast Numbers, Slow Language: Bridging Quantitative and Qualitative Earnings Signals**\
-Ding Yu, Zhuo Liu, Hao Zhang, and Hangfeng He\
-In arXiv 2026.
-\[[pdf](https://arxiv.org/pdf/2606.29734)\]
-
-- **Style or Content? Evaluating Style Classifiers with Controlled Content Overlap**\
-Zhuo Liu, Haozheng Du, Xiangxiang Xu, and Hangfeng He\
-In arXiv 2026.
-\[[pdf](https://arxiv.org/pdf/2606.07103)\]
-
-- **Can LLMs Emulate Human Belief Dynamics?**\
-Adiba Mahbub Proma, Neeley Pate, James N. Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
-In arXiv 2026.
-\[[pdf](https://arxiv.org/pdf/2605.18781)\] 
-
-- **Uncovering Symmetry Transfer in Large Language Models via Layer-Peeled Optimization**\
-Zhehang Du, Hangfeng He, and Weijie Su\
-In arXiv 2026.
-\[[pdf](https://arxiv.org/pdf/2605.12756)\]
-
-- **Replicating Human Motivated Reasoning Studies with LLMs**\
-Neeley Pate, Adiba Mahbub Proma, Hangfeng He, James N. Druckman, Daniel Molden, Gourab Ghoshal, and Ehsan Hoque\
-In arXiv 2026.
-\[[pdf](https://arxiv.org/pdf/2601.16130)\] 
-
-- **Rethinking with Retrieval: Faithful Large Language Model Inference**\
-Hangfeng He, Hongming Zhang, and Dan Roth\
-In arXiv 2023.
-\[[pdf](https://arxiv.org/pdf/2301.00303.pdf)\] \[[code](https://github.com/HornHehhf/RR)\]
