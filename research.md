@@ -190,6 +190,16 @@ In SemBEaR workshop 2017.
 \[[pdf](https://aclanthology.org/W17-1809.pdf)\]
 
 ## Preprints
+- **Fast Numbers, Slow Language: Bridging Quantitative and Qualitative Earnings Signals**\
+Ding Yu, Zhuo Liu, Hao Zhang, and Hangfeng He\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2606.29734)\]
+
+- **Style or Content? Evaluating Style Classifiers with Controlled Content Overlap**\
+Zhuo Liu, Haozheng Du, Xiangxiang Xu, and Hangfeng He\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2606.07103)\]
+
 - **Can LLMs Emulate Human Belief Dynamics?**\
 Adiba Mahbub Proma, Neeley Pate, James N. Druckman, Gourab Ghoshal, Hangfeng He, and Ehsan Hoque\
 In arXiv 2026.
