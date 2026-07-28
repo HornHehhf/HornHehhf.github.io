@@ -44,7 +44,8 @@ In TMLR 2026.
 
 - **Small Arguments, Big Ideas: Fostering Children’s Collaborative Reasoning with LLM Agents**\
 Hecong Wang, Meng Wang, Erfan Farhadi, Asad Shahab, Yuanzhu Li, Haozheng Du, Carolyn Rose, Hangfeng He, and Zhen Bai\
-In ISLS 2026 (to appear).
+In CSCL 2026.
+\[[pdf](https://2026.isls.org/docs/CSCL%20Volume%202026.pdf#page=245)\]
 
 - **Ranking Human and LLM Texts Using Locality Statistics**\
 Yiyang Wang, Chen Ding, and Hangfeng He\
