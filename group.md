@@ -10,7 +10,10 @@ I am broadly interested in AI and its interdisciplinary applications (AI + X). I
 ## Students
 - Zhuo Liu (CS Ph.D. Student, 2024-present)
 - Ding Yu (CS Ph.D. Student, 2024-present)
+- Zara Khan (DS Undergraduate, 2026-present)
+- Phuc Le (CS Undergraduate, 2026-present)
 - Jack Wang (CS Undergraduate, 2026-present; InnovateCS Grant, 2026)
+- Benjamin Song (Pittsford Sutherland High School, 2026-present)
 
 ## Alumni
 - Boyi Zhang (CS Undergraduate, 2024-2026; CRA Outstanding Undergraduate Researcher Award – Honorable Mention, 2026)
