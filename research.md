@@ -37,6 +37,11 @@ In arXiv 2023.
 
 ## Publications
 ### 2026
+- **Compiler-Guided Adaptive Proof Search with Cross-Model Synergy on Context-Dependent Theorem Proving**\
+Zhuo Liu, Ding Yu, and Hangfeng He\
+In EMNLP 2026 (findings).
+\[[pdf](https://arxiv.org/pdf/2608.18084)\]
+
 - **MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models**\
 Hang Hua, Yunlong Tang, Ziyun Zeng, Liangliang Cao, Zhengyuan Yang, Hangfeng He, Chenliang Xu, and Jiebo Luo\
 In TMLR 2026.
