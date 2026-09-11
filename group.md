@@ -4,12 +4,10 @@ title: Group
 permalink: /group/
 ---
 
-## Prospective Undergraduate Students
-I am broadly interested in AI and its interdisciplinary applications (AI + X). If you are an undergraduate student at the University of Rochester from any academic background and share these interests, please email me your CV (or resume) and a brief statement of interest. Prior AI experience is not required; I value curiosity, motivation, and a commitment to research for **at least one year**.
-
 ## Students
 - Zhuo Liu (CS Ph.D. Student, 2024-present)
 - Ding Yu (CS Ph.D. Student, 2024-present)
+- Alex Hermann (CS Undergraduate, 2026-present)
 - Zara Khan (DS Undergraduate, 2026-present)
 - Phuc Le (CS Undergraduate, 2026-present)
 - Jack Wang (CS Undergraduate, 2026-present; InnovateCS Grant, 2026)
