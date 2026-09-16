@@ -7,10 +7,12 @@ permalink: /group/
 ## Students
 - Zhuo Liu (CS Ph.D. Student, 2024-present)
 - Ding Yu (CS Ph.D. Student, 2024-present)
+- Jing Xu (ECE MS Graduate, 2026-present)
 - Alex Hermann (CS Undergraduate, 2026-present)
 - Zara Khan (DS Undergraduate, 2026-present)
 - Phuc Le (CS Undergraduate, 2026-present)
 - Jack Wang (CS Undergraduate, 2026-present; InnovateCS Grant, 2026)
+- Langston Woods (CS Undergraduate, 2026-present)
 - Benjamin Song (Pittsford Sutherland High School, 2026-present)
 
 ## Alumni
