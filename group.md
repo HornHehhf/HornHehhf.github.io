@@ -4,7 +4,7 @@ title: Group
 permalink: /group/
 ---
 
-## Students
+## Members
 - Zhuo Liu (CS Ph.D. Student, 2024-present)
 - Ding Yu (CS Ph.D. Student, 2024-present)
 - Jing Xu (ECE MS Graduate, 2026-present)
