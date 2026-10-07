@@ -16,7 +16,7 @@ This is informal, curiosity-driven exploration—not a research program, interns
 
 ### Share an Exploration
 
-If you have something you would like to explore with me, **[share your exploration here](YOUR_GOOGLE_FORM_LINK)**.
+If you have something you would like to explore with me, **[share your exploration here](https://docs.google.com/forms/d/e/1FAIpQLSfR-19kZEwCLCkvXmMaN4_HJZ10UH87lL9rAdPj49Gv_mUebw/viewform?usp=publish-editor)**.
 
 I may not be able to respond to every submission. I will generally respond when I think I can be helpful and have the capacity to do so. There is no guarantee of a response, meeting, or any particular amount or duration of support.
 
