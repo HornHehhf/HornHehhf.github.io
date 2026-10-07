@@ -51,6 +51,7 @@ header_pages:
 - research.md
 - teaching.md
 - group.md
+- curiosity.md
 
 # Build settings
 theme: minima
