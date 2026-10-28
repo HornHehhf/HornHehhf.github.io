@@ -5,6 +5,11 @@ permalink: /research/
 ---
 
 ## Preprints
+- **Astro2Method: Benchmarking LLMs on Machine Learning Method Selection in Astronomy**\
+Xingzhong Fan, Hangfeng He, and Fatemeh Nargesian\
+In arXiv 2026.
+\[[pdf](https://arxiv.org/pdf/2610.30282)\]
+
 - **Fast Numbers, Slow Language: Bridging Quantitative and Qualitative Earnings Signals**\
 Ding Yu, Zhuo Liu, Hao Zhang, and Hangfeng He\
 In arXiv 2026.
